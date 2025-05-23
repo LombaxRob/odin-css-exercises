@@ -5,7 +5,17 @@
     font-family: "Verdana", DejaVu Sans, sans-serif;
 }
 
-#usingID {
+#using-ID {
     color: #1313d3;
     font-size: 36px;
+}
+
+.extra-class{
+    font-size: 24px;
+}
+
+#another-ID {
+    background-color: #099e09;
+    font-size: 24px;
+    font-weight: bold;
 }
