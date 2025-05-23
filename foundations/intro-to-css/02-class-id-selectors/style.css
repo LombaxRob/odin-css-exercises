@@ -1,5 +1,11 @@
 /* style.css */
 
 .odd-number {
-    background-color: rgb(244, 168, 179)
+    background-color: rgb(244, 168, 179);
+    font-family: "Verdana", DejaVu Sans, sans-serif;
+}
+
+#usingID {
+    color: #1313d3;
+    font-size: 36px;
 }
