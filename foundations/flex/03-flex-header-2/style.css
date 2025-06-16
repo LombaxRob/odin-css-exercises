@@ -43,11 +43,6 @@ body {
 
 }
 
-
-.notifications{
-
-}
-
 button {
   border: none;
   border-radius: 8px;
@@ -67,5 +62,7 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 16px;
+  margin: 0px;
+  padding:0px;
   align-items: center;
 }
