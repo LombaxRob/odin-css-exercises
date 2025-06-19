@@ -20,7 +20,7 @@ body {
   align-items: center;
   justify-content: space-between;
   margin-bottom: 10px;
-  font-weight: 500;
+  font-weight: 800;
   font-size: 20px;
 }
 .modal {
@@ -79,4 +79,8 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+
+.text{
+  margin-bottom: 10px;
 }
