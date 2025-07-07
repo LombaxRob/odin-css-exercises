@@ -30,8 +30,6 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  display: flex;
-  justify-content: flex-start;
   flex-shrink: 0;
   padding: 16px;
 }
@@ -56,7 +54,6 @@ body {
 .container{
   flex: 1;
   display: flex;
-  flex-direction: row;
 }
 
 a {
@@ -64,6 +61,7 @@ a {
   text-decoration: none;
   font-size: 16px;
 }
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -71,5 +69,5 @@ ul {
 }
 
 li {
-  margin: 8px 0px 8px 0px;
+  margin-bottom: 32px;
 }
